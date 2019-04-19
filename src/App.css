@@ -8,7 +8,7 @@ body {
 
 .wrapper {
   background: linear-gradient(to right, #210b96, #5872f1 );
-  height: 100vh;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -51,7 +51,7 @@ body {
 .form-container {
   background-color: #0c153e;
   height: 90vh;
-  padding-top: 100px;
+  padding-top: 30px;
   padding-left: 50px;
 }
 
@@ -59,7 +59,7 @@ input[type="text"] {
   background-color: transparent;
   border: 0;
   border-bottom: solid 1px #f16051;
-  width: 30%;
+  width: 20%;
   padding-bottom: 4px;
   color: #fff !important;
   font-weight: lighter;
